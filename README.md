@@ -14,7 +14,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro</b> (22H2) at least 4vCPUs and 8GB RAM
+- Windows 10 Pro</b> (22H2) at least 2vCPUs, 8GB RAM
 
 <h2>Ticket Lifecycle Stages</h2>
 
